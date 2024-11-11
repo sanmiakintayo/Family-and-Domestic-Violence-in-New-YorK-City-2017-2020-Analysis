@@ -3,10 +3,10 @@
 ### Project Overview
 A detailed analysis which provided a comprehensive view of sales performance over a two-year period. This is used to make decisions to drive growth, enhance profitability, and better understand customers’ behaviour.
 ### Objectives
-- Understand Sales Performance: Assess overall sales performance over the two-year period.
+- Understand Sales Performance: Assess overall sales performance over the two years.
 - Identify Best-Selling Products: Determine which products and categories are the top sellers.
 - Profitability Analysis: Analyze profit margins and identify the most profitable products and categories.
-- Sales Volume Analysis: Examine the volume of sales across different periods and methods.
+- Sales Volume Analysis: Examined the sales volume across different periods and sales avenues.
 - Payment Mode Preferences: Discover trends in customer payment modes.
 - Sales Method Effectiveness: Compare the effectiveness of different sales methods (direct, online, and wholesale).
 ### Methods
@@ -16,9 +16,9 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 -	Data analyses were done with Excel,  PowerBI, SQL
 -	Data visualisation and report done with PowerBI
 ### Key Performance Indicators (KPIs)
-- Total Sales: Dtermined the overall sales amount for the period was determined.
+- Total Sales: The overall sales amount for the period was determined.
 - Total Profit: The overall profit generated was evaluated.
-- Sales Growth Rate: Growth rate of sales year-over-year and month-over-month were calculated.
+- Sales Growth Rate: Sales growth rate year-over-year and month-over-month were calculated.
 - Profit Margin: Profit margin for products and categories were determined.
 - Top Products by Sales Volume: Top products based on sales volume were identified.
 - Sales by Category: Sales performance across different product categories were measured.
