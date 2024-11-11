@@ -32,6 +32,8 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Customer Retention Rate: Assess the percentage of repeat customers
 - Average Order Value (AOV): The average amount spent per order was calculated
 
+![Sales KPIs](https://github.com/user-attachments/assets/4835d63a-f928-4871-961f-e47315f66f28)
+
 ### Insights
 - Seasonal Trends: Peak sales months and periods of low sales activity were identified.
 - Product Performance: Products driving the most revenue and profit were determined.
@@ -39,6 +41,10 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Sales Channel Effectiveness: Understanding of which sales methods are most successful in generating sales and profit.
 - Profit Margins: Analysis of products and categories offer the highest profit margins was carried out.
 - Customer Behavior: Evaluated how customers interact with different sales methods and payment modes.
+![Screenshot 2024-11-11 005711XX](https://github.com/user-attachments/assets/aa251bc7-dfd1-40d7-b011-e6c85cff2a2b)
+![Screenshot 2024-11-11 005802X](https://github.com/user-attachments/assets/6b63d302-c775-4ab0-82b4-491199d42bac)
+![Screenshot 2024-11-11 005824X](https://github.com/user-attachments/assets/5681c749-d1d5-48de-9f54-2438cb34fdd0)
+![Screenshot 2024-11-11 005907X](https://github.com/user-attachments/assets/676fa1f8-6b72-4038-8de0-cd8bde308338)
 
 ### Trends
 - Year-over-Year Growth: The growth rate of sales and profits over the two years were assessed.
@@ -47,10 +53,10 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Payment Mode Shifts: Changes or shifts in the preferred payment modes over time were monitored.
 - Sales Method Shifts: Trends in the preferred sales methods (direct, online, wholesale) were tracked.
 - Profitability Trends: Profitability trends across different products and categories were monitored.
+![Screenshot 2024-11-11 013637x](https://github.com/user-attachments/assets/67df53d1-1bc0-472b-99c1-387c1a2335c3)
+![Screenshot 2024-11-11 005900X](https://github.com/user-attachments/assets/af8a7464-6f4e-430e-8f83-e4e8c26ac5a9)
 
 ### Reports and Dashboard
 - The report and interactive dashboard was created with PowerBI
-
-
-
-
+![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/ea57e737-a890-4106-a6a6-4ed3613c6ced)
+![Screenshot 2024-11-11 005842X](https://github.com/user-attachments/assets/b66218f3-c874-4bdb-bea7-00c794b4ee80)
