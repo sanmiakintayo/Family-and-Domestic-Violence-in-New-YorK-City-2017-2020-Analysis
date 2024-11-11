@@ -1,5 +1,6 @@
 # Products Sales Analysis
 ![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/38c768b0-7094-441c-ac7d-453927d55bff)
+
 ### Project Overview
 A detailed analysis which provided a comprehensive view of sales performance over a two-year period. This is used to make decisions to drive growth, enhance profitability, and better understand customers’ behaviour.
 
@@ -39,10 +40,8 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Sales Channel Effectiveness: Understanding of which sales methods are most successful in generating sales and profit.
 - Profit Margins: Analysis of products and categories offer the highest profit margins was carried out.
 - Customer Behavior: Evaluated how customers interact with different sales methods and payment modes.
-![Screenshot 2024-11-11 005711XX](https://github.com/user-attachments/assets/aa251bc7-dfd1-40d7-b011-e6c85cff2a2b)
-![Screenshot 2024-11-11 005802X](https://github.com/user-attachments/assets/6b63d302-c775-4ab0-82b4-491199d42bac)
-![Screenshot 2024-11-11 005824X](https://github.com/user-attachments/assets/5681c749-d1d5-48de-9f54-2438cb34fdd0)
-![Screenshot 2024-11-11 005907X](https://github.com/user-attachments/assets/676fa1f8-6b72-4038-8de0-cd8bde308338)
+![Screenshot 2024-11-11 005842X](https://github.com/user-attachments/assets/c035c6a9-9634-4a33-a765-f66ac8a236f0)
+![Screenshot 2024-11-11 005907X](https://github.com/user-attachments/assets/e896bb2b-5ec8-4ca2-809a-c056ffbfcc69)
 
 ### Trends
 - Year-over-Year Growth: The growth rate of sales and profits over the two years were assessed.
@@ -54,7 +53,3 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 ![Screenshot 2024-11-11 013637x](https://github.com/user-attachments/assets/67df53d1-1bc0-472b-99c1-387c1a2335c3)
 ![Screenshot 2024-11-11 005900X](https://github.com/user-attachments/assets/af8a7464-6f4e-430e-8f83-e4e8c26ac5a9)
 
-### Reports and Dashboard
-- The report and interactive dashboard was created with PowerBI
-![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/ea57e737-a890-4106-a6a6-4ed3613c6ced)
-![Screenshot 2024-11-11 005842X](https://github.com/user-attachments/assets/b66218f3-c874-4bdb-bea7-00c794b4ee80)
