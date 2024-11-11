@@ -1,7 +1,5 @@
 # Products Sales Analysis
-
-![real estate sales analysis blog image](https://github.com/user-attachments/assets/2d2a2af8-ca7c-49cd-9c86-6429ef4f1701)
-
+![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/38c768b0-7094-441c-ac7d-453927d55bff)
 ### Project Overview
 A detailed analysis which provided a comprehensive view of sales performance over a two-year period. This is used to make decisions to drive growth, enhance profitability, and better understand customers’ behaviour.
 
