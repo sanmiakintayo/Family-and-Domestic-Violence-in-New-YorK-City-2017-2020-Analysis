@@ -35,8 +35,8 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Profit Margins: Analysis of products and categories offer the highest profit margins was carried out.
 - Customer Behavior: Evaluated how customers interact with different sales methods and payment modes.
 ![Screenshot 2024-11-11 005842X](https://github.com/user-attachments/assets/c035c6a9-9634-4a33-a765-f66ac8a236f0)
-### Sales by Year
-![Screenshot 2024-11-11 005907X](https://github.com/user-attachments/assets/e896bb2b-5ec8-4ca2-809a-c056ffbfcc69)
+### Margin by Category
+![Screenshot 2024-11-11 005907Xx](https://github.com/user-attachments/assets/c43bab9d-e10c-450a-8375-fb5061e898cf)
 ### Trends
 - Year-over-Year Growth: The growth rate of sales and profits over the two years were assessed.
 - Monthly Sales Patterns: Recurring monthly sales patterns and trends identified.
@@ -44,6 +44,8 @@ A detailed analysis which provided a comprehensive view of sales performance ove
 - Payment Mode Shifts: Changes or shifts in the preferred payment modes over time were monitored.
 - Sales Method Shifts: Trends in the preferred sales methods (direct, online, wholesale) were tracked.
 - Profitability Trends: Profitability trends across different products and categories were monitored.
+### Sales by Year
 ![Screenshot 2024-11-11 013637x](https://github.com/user-attachments/assets/67df53d1-1bc0-472b-99c1-387c1a2335c3)
-![Screenshot 2024-11-11 005900X](https://github.com/user-attachments/assets/af8a7464-6f4e-430e-8f83-e4e8c26ac5a9)
 
+### Further Sales Analysis by Year and Products
+![Screenshot 2024-11-11 005900Xx](https://github.com/user-attachments/assets/a8c0a3c4-1620-4b20-80e5-159412d54e8c)
