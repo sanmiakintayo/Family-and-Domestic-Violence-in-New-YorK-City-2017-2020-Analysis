@@ -1,7 +1,7 @@
 # Products Sales Analysis
-![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/38c768b0-7094-441c-ac7d-453927d55bff)
 ### Project Overview
 A detailed analysis which provided a comprehensive view of sales performance over a two-year period. This is used to make decisions to drive growth, enhance profitability, and better understand customers’ behaviour.
+![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/38c768b0-7094-441c-ac7d-453927d55bff)
 ### Objectives
 - Understand Sales Performance: Assess overall sales performance over the two years.
 - Identify Best-Selling Products: Determine which products and categories are the top sellers.
