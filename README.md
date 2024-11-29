@@ -1,4 +1,4 @@
-# Products Sales Analysis
+# Sales Performance Analysis
 ## Project Overview
 This analysis evaluates the sales performance across various categories, payment modes, and sale types for the years 2021 and 2022. The goal is to identify trends, disparities, and areas for improvement to enhance overall business profitability.
 ![Screenshot 2024-11-11 005852X](https://github.com/user-attachments/assets/38c768b0-7094-441c-ac7d-453927d55bff)
