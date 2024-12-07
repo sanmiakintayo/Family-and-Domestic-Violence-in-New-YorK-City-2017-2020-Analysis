@@ -1,5 +1,5 @@
 # Family and Domestic Violence in New YorK City: 2017-2020 Analysis
-![Screenshot 2024-12-02 144546xx](https://github.com/user-attachments/assets/3573918b-26da-415e-9dcf-6fb2969a03dc)
+![Screenshot 2024-12-03 060100xx](https://github.com/user-attachments/assets/5a4dd336-0d1b-4549-bf29-7e91171b92b8)
 ## Introduction
 Family and domestic violence remains a pressing social issue, impacting individuals and communities across the globe. This comprehensive analysis aims to shed light on the trends, patterns, and key insights related to family and domestic violence incidents in New York City from 2017 to 2020. By examining detailed data across various boroughs and identifying changes over time, this report provides a crucial understanding of the prevalence and dynamics of such incidents.
 Through meticulous data analysis, I highlight significant decreases in reported incidents, offering valuable insights into the effectiveness of existing interventions and preventive measures. The analysis not only underscores the areas of progress but also identifies regions and demographics that may require focused attention and additional resources. This report serves as an essential tool for policymakers, law enforcement, and support organizations dedicated to addressing and mitigating the impacts of family and domestic violence, ultimately contributing to a safer and more resilient community.
@@ -21,19 +21,21 @@ The objective of this analysis is to understand the patterns, trends, and key in
 - Family Related Rape: 838
 ### Geographic Hotspots
 #### Brooklyn and Bronx 
-- Consistently show higher numbers of both family-related and domestic violence-related felony assaults and rape incidents. These areas may require more focused interventions and resources to address and prevent these incidents.
-#### Staten Island 
--Consistently has the lowest number of incidents in both categories, suggesting a relatively lower prevalence of such crimes or potentially different reporting patterns.
+Consistently show higher numbers of both family-related and domestic violence-related felony assaults and rape incidents. These areas may require more focused interventions and resources to address and prevent these incidents.
+
 ![Screenshot 2024-12-02 144607x](https://github.com/user-attachments/assets/a2a9c8c5-8215-4cd6-a680-83685f3509a2)
-### Temporal Patterns
-- The decline from 2018 to 2020 in both family-related and domestic violence-related incidents highlighting effective strategies in combating family and domestic related violence.
+#### Staten Island 
+Consistently has the lowest number of incidents in both categories, suggesting a relatively lower prevalence of such crimes or potentially different reporting patterns.
+
+![Screenshot 2024-12-02 144618x](https://github.com/user-attachments/assets/dcfe82b3-2b2c-4bb8-9e30-615ca86064e1)
 ## Key Findings
 ### Steady Decline in Incidents
-- The consistent decrease in incidents over the years highlights effective preventive measures and support systems. This suggests that preventive measures, awareness programs, and law enforcement efforts may be having a positive impact.
+The decline from 2018 to 2020 in both family-related and domestic violence-related incidents highlighting effective strategies in combating family and domestic related violence.
+
+![Screenshot 2024-12-07 232916x](https://github.com/user-attachments/assets/3a3e7e72-fe8b-4c01-a5d2-403f1a0f5f67)
 ### Concentration in Specific Boroughs
 - Brooklyn and the Bronx require more focused interventions due to higher incident rates.
 - The significant reduction in incidents in these boroughs could indicate successful targeted strategies.
-![Screenshot 2024-12-02 144618x](https://github.com/user-attachments/assets/dcfe82b3-2b2c-4bb8-9e30-615ca86064e1)
 ### Higher Incidents of Domestic Violence Related Rape
 - The significantly higher number of domestic violence-related rape incidents compared to family-related rape incidents underscores the critical need for focused efforts on domestic violence prevention.
 ## Comparative Analysis
